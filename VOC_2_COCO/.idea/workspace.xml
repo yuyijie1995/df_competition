@@ -1,0 +1,2467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcbca0e6-e515-41dc-8388-c8b0ff229721" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../keras-retinanet/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TXT_2_VOC/create_train_test_txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TXT_2_VOC/create_train_test_txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TXT_2_VOC/modify_annotations_txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TXT_2_VOC/modify_annotations_txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOC2COCO_pic.py" beforeDir="false" afterPath="$PROJECT_DIR$/VOC2COCO_pic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOC2COCO_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/VOC2COCO_xml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3D-BoundingBox/Eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../3D-BoundingBox/Eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3D-BoundingBox/Library/Dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../3D-BoundingBox/Library/Dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3D-BoundingBox/Run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../3D-BoundingBox/Run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3D-BoundingBox/Train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../3D-BoundingBox/Train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3D-BoundingBox/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3D-BoundingBox/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Detectron.pytorch/configs/baselines/e2e_mask_rcnn_R-101-FPN_1x.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Detectron.pytorch/configs/baselines/e2e_mask_rcnn_R-101-FPN_1x.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Detectron.pytorch/lib/core/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Detectron.pytorch/lib/core/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Detectron.pytorch/lib/core/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Detectron.pytorch/lib/core/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Detectron.pytorch/lib/datasets/dummy_datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Detectron.pytorch/lib/datasets/dummy_datasets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Detectron.pytorch/lib/utils/cython_bbox.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Detectron.pytorch/lib/utils/cython_bbox.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Detectron.pytorch/lib/utils/cython_nms.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Detectron.pytorch/lib/utils/cython_nms.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Detectron.pytorch/lib/utils/vis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Detectron.pytorch/lib/utils/vis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Detectron.pytorch/tools/infer_simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Detectron.pytorch/tools/infer_simple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RFBNet/data/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../RFBNet/data/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RFBNet/data/voc0712.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../RFBNet/data/voc0712.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RFBNet/test_RFB.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../RFBNet/test_RFB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RFBNet/train_RFB.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../RFBNet/train_RFB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RFBNet/utils/build.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../RFBNet/utils/build.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kaggle_human_protein_baseline/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../kaggle_human_protein_baseline/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kaggle_human_protein_baseline/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../kaggle_human_protein_baseline/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kaggle_human_protein_baseline/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../kaggle_human_protein_baseline/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/bin/convert_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/bin/convert_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/bin/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/bin/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/losses.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/losses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/preprocessing/kitti.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/preprocessing/kitti.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/utils/image.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/utils/image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../keras-retinanet/snapshots/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../keras-yolo3/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../keras-yolo3/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../keras-yolo3/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../keras-yolo3/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../keras-yolo3/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../keras-yolo3/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../keras-yolo3/utils/bbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../keras-yolo3/utils/bbox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../keras-yolo3/yolo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../keras-yolo3/yolo.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$mxnet_1.coverage" NAME="mxnet_1 Coverage Results" MODIFIED="1547209898495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../mxnet/practice" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$VOC2COCO_xml.coverage" NAME="VOC2COCO_xml Coverage Results" MODIFIED="1545717943268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../qirui" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$test_RFB.coverage" NAME="test_RFB Coverage Results" MODIFIED="1545457509846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../RFBNet" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$1_ships_to_coco.coverage" NAME="1_ships_to_coco Coverage Results" MODIFIED="1545702650986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$qirui2VOC.coverage" NAME="qirui2VOC Coverage Results" MODIFIED="1545355465837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../qirui" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$modify_annotations_txt.coverage" NAME="modify_annotations_txt Coverage Results" MODIFIED="1544431114797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TXT_2_VOC" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$data_check.coverage" NAME="data_check Coverage Results" MODIFIED="1545719942705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../qirui" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$linklist_test.coverage" NAME="linklist_test Coverage Results" MODIFIED="1546778432981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/03_链表" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$png2jpg.coverage" NAME="png2jpg Coverage Results" MODIFIED="1544430658758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TXT_2_VOC" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$labelme2COCO.coverage" NAME="labelme2COCO Coverage Results" MODIFIED="1544853801789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$infer_simple__2d_3d.coverage" NAME="infer_simple _2d-3d Coverage Results" MODIFIED="1545481706265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Detectron.pytorch/tools" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$convert_model.coverage" NAME="convert_model Coverage Results" MODIFIED="1545013551661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/bin" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$train_net_step.coverage" NAME="train_net_step Coverage Results" MODIFIED="1546945016483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Detectron.pytorch/tools" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$train.coverage" NAME="train Coverage Results" MODIFIED="1545017827696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$train_RFB.coverage" NAME="train_RFB Coverage Results" MODIFIED="1545046432465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../RFBNet" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$cheery_data_check.coverage" NAME="cheery_data_check Coverage Results" MODIFIED="1546864649672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../cheery2voc/chery_data_analysis" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$pycococreatortools.coverage" NAME="pycococreatortools Coverage Results" MODIFIED="1545702570085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$VOC2COCO_pic.coverage" NAME="VOC2COCO_pic Coverage Results" MODIFIED="1544431619371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$Train.coverage" NAME="Train Coverage Results" MODIFIED="1545015912779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../3D-BoundingBox" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$create_train_test_txt.coverage" NAME="create_train_test_txt Coverage Results" MODIFIED="1544431484656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TXT_2_VOC" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$predict.coverage" NAME="predict Coverage Results" MODIFIED="1545014859978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../keras-yolo3" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$Eval.coverage" NAME="Eval Coverage Results" MODIFIED="1545457674900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../3D-BoundingBox" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$convert_cityscapes_to_coco.coverage" NAME="convert_cityscapes_to_coco Coverage Results" MODIFIED="1544851504981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Detectron.pytorch/lib/datasets/cityscapes/tools" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$class_test.coverage" NAME="class_test Coverage Results" MODIFIED="1547002909638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/07_哈希表" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$test.coverage" NAME="test Coverage Results" MODIFIED="1544855999385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme data" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1545197070036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/bin" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$Data2VOC.coverage" NAME="Data2VOC Coverage Results" MODIFIED="1546863219853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../cheery2voc/chery_data_analysis" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1545014245475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../keras-retinanet" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$qirui2coco.coverage" NAME="qirui2coco Coverage Results" MODIFIED="1545719285084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../qirui" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$infer_simple.coverage" NAME="infer_simple Coverage Results" MODIFIED="1546999289129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Detectron.pytorch/tools" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$txt_to_voc.coverage" NAME="txt_to_voc Coverage Results" MODIFIED="1544431164421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TXT_2_VOC" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$practice1.coverage" NAME="practice1 Coverage Results" MODIFIED="1545736675768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/01_抽象数据类型和面向对象编程" />
+    <SUITE FILE_PATH="coverage/VOC_2_COCO$data_check2.coverage" NAME="data_check2 Coverage Results" MODIFIED="1545720038821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../qirui" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../mxnet/practice/mxnet_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/envs/gluon/lib/python3.6/site-packages/d2lzh/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4761">
+              <caret line="222" column="20" selection-start-line="222" selection-start-column="20" selection-end-line="222" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/envs/gluon/lib/python3.6/site-packages/mxnet/gluon/block.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11201">
+              <caret line="499" column="48" selection-start-line="499" selection-start-column="48" selection-end-line="499" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/10_递归/resursion_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BACKBONE.NORM</find>
+      <find>FPN.FRCNN_HEAD_FUNC</find>
+      <find>PREPROC.TRAIN_SHORT_EDGE_SIZE</find>
+      <find>train</find>
+      <find>BACKBONE.FREEZE_AT</find>
+      <find>val</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Detectron.pytorch" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../cat_vs_dog_pytorch/utils/utils1.py" />
+        <option value="$PROJECT_DIR$/../../cat_vs_dog_pytorch/models/model.py" />
+        <option value="$PROJECT_DIR$/../../keras-yolo3/train.py" />
+        <option value="$PROJECT_DIR$/../../keras-yolo3/yolo.py" />
+        <option value="$PROJECT_DIR$/../../cat_vs_dog_pytorch/data/__init__.py" />
+        <option value="$PROJECT_DIR$/../../cat_vs_dog_pytorch/data/get_data.py" />
+        <option value="$PROJECT_DIR$/../../cat_vs_dog_pytorch/utils/__init__.py" />
+        <option value="$PROJECT_DIR$/../../cat_vs_dog_pytorch/data/dataset.py" />
+        <option value="$PROJECT_DIR$/../../cat_vs_dog_pytorch/models/BasicModule.py" />
+        <option value="$PROJECT_DIR$/../../cat_vs_dog_pytorch/models/ResNet34.py" />
+        <option value="$PROJECT_DIR$/../../cat_vs_dog_pytorch/models/__init__.py" />
+        <option value="$PROJECT_DIR$/../../cat_vs_dog_pytorch/utils/visualize.py" />
+        <option value="$PROJECT_DIR$/../../cat_vs_dog_pytorch/main.py" />
+        <option value="$PROJECT_DIR$/../../cat_vs_dog_pytorch/config.py" />
+        <option value="$PROJECT_DIR$/../../Detectron.pytorch/lib/core/test.py" />
+        <option value="$PROJECT_DIR$/../../3D-BoundingBox/config.yaml" />
+        <option value="$USER_HOME$/anaconda3/envs/pytorch0.4/lib/python3.6/site-packages/torch/nn/modules/module.py" />
+        <option value="$PROJECT_DIR$/../../RFBNet/test_RFB.py" />
+        <option value="$PROJECT_DIR$/../../3D-BoundingBox/2d2dim.py" />
+        <option value="$PROJECT_DIR$/../../3D-BoundingBox/Eval.py" />
+        <option value="$PROJECT_DIR$/../../Detectron.pytorch/tools/Library/Dataset.py" />
+        <option value="$PROJECT_DIR$/../../Detectron.pytorch/tools/infer_simple _2d-3d.py" />
+        <option value="$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/losses.py" />
+        <option value="$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/train.py" />
+        <option value="$PROJECT_DIR$/../../Detectron.pytorch/tools/infer_simple.py" />
+        <option value="$PROJECT_DIR$/../../qirui/data_coco/qirui2coco.py" />
+        <option value="$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/1_ships_to_coco.py" />
+        <option value="$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py" />
+        <option value="$PROJECT_DIR$/../../qirui/qirui2coco.py" />
+        <option value="$PROJECT_DIR$/../../qirui/data_check.py" />
+        <option value="$PROJECT_DIR$/../../qirui/data_check2.py" />
+        <option value="$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py" />
+        <option value="$PROJECT_DIR$/../../Detectron.pytorch/configs/baselines/e2e_mask_rcnn_R-101-FPN_1x.yaml" />
+        <option value="$PROJECT_DIR$/../../Detectron.pytorch/lib/datasets/dummy_datasets.py" />
+        <option value="$PROJECT_DIR$/../../Detectron.pytorch/lib/utils/vis.py" />
+        <option value="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/01_抽象数据类型和面向对象编程/practice1.py" />
+        <option value="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/02_数组和列表/practice1.py" />
+        <option value="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/03_链表/double_linklist_test.py" />
+        <option value="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/03_链表/linklist_test.py" />
+        <option value="$PROJECT_DIR$/../../cheery2voc/chery_data_analysis/Data2VOC.py" />
+        <option value="$PROJECT_DIR$/../../cheery2voc/chery_data_analysis/cheery_data_check.py" />
+        <option value="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/04_队列/queue_test.py" />
+        <option value="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/04_队列/array_queue_test.py" />
+        <option value="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/04_队列/deque_test.py" />
+        <option value="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/05_栈/stack_test.py" />
+        <option value="$PROJECT_DIR$/../../Detectron.pytorch/lib/core/config.py" />
+        <option value="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/07_哈希表/class_test.py" />
+        <option value="$PROJECT_DIR$/../../mxnet/practice/1-10.py" />
+        <option value="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/07_哈希表/hash_test.py" />
+        <option value="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/10_递归/resursion_test.py" />
+        <option value="$PROJECT_DIR$/../../mxnet/practice/mxnet_1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="11" />
+    <option name="width" value="1398" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VOC_2_COCO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VOC_2_COCO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="数据结构和算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VOC_2_COCO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="数据结构和算法" type="462c0819:PsiDirectoryNode" />
+              <item name="python_data_structures_and_algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VOC_2_COCO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="数据结构和算法" type="462c0819:PsiDirectoryNode" />
+              <item name="python_data_structures_and_algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VOC_2_COCO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="数据结构和算法" type="462c0819:PsiDirectoryNode" />
+              <item name="python_data_structures_and_algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="10_递归" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../keras-retinanet" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.mxnet_1">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="3D-BoundingBox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="3D-BoundingBox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="3D-BoundingBox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="3D-BoundingBox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cheery_data_check" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cheery2voc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../cheery2voc/chery_data_analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../cheery2voc/chery_data_analysis/cheery_data_check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据结构和算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/07_哈希表" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/07_哈希表/class_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="infer_simple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Detectron.pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Detectron.pytorch/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Detectron.pytorch/tools/infer_simple.py" />
+      <option name="PARAMETERS" value="--dataset coco --cfg ../configs/baselines/e2e_mask_rcnn_R-101-FPN_1x.yaml --load_ckpt $PROJECT_DIR$/../../Detectron.pytorch/tools/Outputs/e2e_mask_rcnn_R-101-FPN_1x/Jan08-18-57-06_214-2_step/ckpt/model_step53332.pth --image_dir ../inputs/  --output_dir ../outputs/" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mxnet_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="LD_LIBRARY_PATH" value="/usr/local/cuda-9.0/lib64;/usr/local/lib" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../mxnet/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../mxnet/practice/mxnet_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_net_step" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Detectron.pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Detectron.pytorch/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py" />
+      <option name="PARAMETERS" value="--dataset coco2017 --cfg ../configs/baselines/e2e_mask_rcnn_R-101-FPN_1x.yaml --use_tfboard --bs 3 --nw 2" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="3D-BoundingBox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="3D-BoundingBox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="3D-BoundingBox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.cheery_data_check" />
+      <item itemvalue="Python.train_net_step" />
+      <item itemvalue="Python.infer_simple" />
+      <item itemvalue="Python.class_test" />
+      <item itemvalue="Python.mxnet_1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mxnet_1" />
+        <item itemvalue="Python.class_test" />
+        <item itemvalue="Python.infer_simple" />
+        <item itemvalue="Python.train_net_step" />
+        <item itemvalue="Python.cheery_data_check" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcbca0e6-e515-41dc-8388-c8b0ff229721" name="Default Changelist" comment="" />
+      <created>1544429329223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544429329223</updated>
+      <workItem from="1544429330450" duration="155318000" />
+      <workItem from="1546758678340" duration="32177000" />
+      <workItem from="1547040387271" duration="14679000" />
+      <workItem from="1547172795281" duration="598000" />
+      <workItem from="1547174380992" duration="574000" />
+      <workItem from="1547175442093" duration="4100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="207446000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="51" y="-4" width="1869" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15815486" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294979" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39958158" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.45030203" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3294893" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOC2COCO_xml.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/bin/train.py</url>
+          <line>415</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/bin/train.py</url>
+          <line>438</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/bin/train.py</url>
+          <line>208</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/bin/train.py</url>
+          <line>306</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/bin/train.py</url>
+          <line>307</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/lib/datasets/cityscapes/tools/convert_cityscapes_to_coco.py</url>
+          <line>197</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/lib/datasets/cityscapes/tools/convert_cityscapes_to_coco.py</url>
+          <line>196</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/lib/datasets/cityscapes/tools/convert_cityscapes_to_coco.py</url>
+          <line>195</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>122</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme2COCO.py</url>
+          <line>144</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme data/test.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme data/test.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme data/test.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme data/test.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/labelme data/test.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>164</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>248</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>254</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>256</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>257</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>274</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/test1.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/test1.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/test1.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/test1.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/test1.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/test1.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/test1.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/test1.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-yolo3/predict.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-yolo3/predict.py</url>
+          <line>130</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-yolo3/predict.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-yolo3/predict.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-yolo3/predict.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/train.py</url>
+          <line>522</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/train.py</url>
+          <line>569</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/train.py</url>
+          <line>566</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/viz.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/viz.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/viz.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/viz.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/viz.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/tensorflow/lib/python3.6/site-packages/tensorpack/utils/viz.py</url>
+          <line>351</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/train.py</url>
+          <line>398</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/train.py</url>
+          <line>399</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/train.py</url>
+          <line>400</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/train.py</url>
+          <line>403</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/train.py</url>
+          <line>416</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/train.py</url>
+          <line>415</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/train.py</url>
+          <line>409</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/train.py</url>
+          <line>408</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/data/voc0712.py</url>
+          <line>130</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/data/voc0712.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/data/voc0712.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/data/voc0712.py</url>
+          <line>184</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/data/voc0712.py</url>
+          <line>178</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/data/voc0712.py</url>
+          <line>177</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/train_RFB.py</url>
+          <line>207</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>478</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>479</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>345</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>347</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>379</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>380</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>383</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>384</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>388</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>329</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>331</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>333</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>336</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>337</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>338</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>339</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>342</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>267</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>276</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>278</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>268</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Run.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>171</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>188</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>191</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/data/voc0712.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/data/voc0712.py</url>
+          <line>211</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/preprocessing/kitti.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../keras-retinanet/keras_retinanet/preprocessing/kitti.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2VOC.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/lib/core/test.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/infer_simple.py</url>
+          <line>159</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/infer_simple.py</url>
+          <line>144</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>145</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>168</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>153</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>157</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>156</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../RFBNet/test_RFB.py</url>
+          <line>158</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>114</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>122</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>127</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>130</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>133</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>138</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>139</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>141</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>142</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>144</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>146</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>147</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Eval.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../3D-BoundingBox/Library/Dataset.py</url>
+          <line>181</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/infer_simple _2d-3d.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/infer_simple _2d-3d.py</url>
+          <line>236</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/infer_simple _2d-3d.py</url>
+          <line>226</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/infer_simple _2d-3d.py</url>
+          <line>230</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/data_check.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/data_check.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/data_check.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/data_check.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/data_check.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/data_check.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>296</line>
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>297</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>182</line>
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>183</line>
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>215</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/data_check.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/pytorch0.4/lib/python3.6/site-packages/pycocotools/coco.py</url>
+          <line>232</line>
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/data_check2.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="404" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/data_check2.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/1_ships_to_coco.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/1_ships_to_coco.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="407" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/1_ships_to_coco.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/1_ships_to_coco.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/1_ships_to_coco.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="410" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/1_ships_to_coco.py</url>
+          <line>122</line>
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools/pycococreatortools.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools/pycococreatortools.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools/pycococreatortools.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools/pycococreatortools.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools/pycococreatortools.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools/pycococreatortools.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools/pycococreatortools.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools/pycococreatortools.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools/pycococreatortools.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools/pycococreatortools.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools/pycococreatortools.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools/pycococreatortools.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools/pycococreatortools.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="425" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="429" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="430" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="431" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/pycococreatortools/pycococreatortools.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>191</line>
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>206</line>
+          <option name="timeStamp" value="434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>211</line>
+          <option name="timeStamp" value="435" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>218</line>
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>219</line>
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>220</line>
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>164</line>
+          <option name="timeStamp" value="440" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>319</line>
+          <option name="timeStamp" value="441" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>320</line>
+          <option name="timeStamp" value="442" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>189</line>
+          <option name="timeStamp" value="444" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>145</line>
+          <option name="timeStamp" value="445" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>274</line>
+          <option name="timeStamp" value="446" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>289</line>
+          <option name="timeStamp" value="452" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>288</line>
+          <option name="timeStamp" value="453" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>303</line>
+          <option name="timeStamp" value="454" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>305</line>
+          <option name="timeStamp" value="455" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>275</line>
+          <option name="timeStamp" value="457" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>276</line>
+          <option name="timeStamp" value="458" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>277</line>
+          <option name="timeStamp" value="459" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>279</line>
+          <option name="timeStamp" value="460" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>280</line>
+          <option name="timeStamp" value="461" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>282</line>
+          <option name="timeStamp" value="462" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>284</line>
+          <option name="timeStamp" value="463" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>285</line>
+          <option name="timeStamp" value="464" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="465" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="466" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>142</line>
+          <option name="timeStamp" value="468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>228</line>
+          <option name="timeStamp" value="469" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/qirui2coco.py</url>
+          <line>234</line>
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/data_check.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="471" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../qirui/data_check.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="472" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/pytorch0.4/lib/python3.6/site-packages/pycocotools/coco.py</url>
+          <line>221</line>
+          <option name="timeStamp" value="473" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/pytorch0.4/lib/python3.6/site-packages/pycocotools/coco.py</url>
+          <line>227</line>
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/pytorch0.4/lib/python3.6/site-packages/pycocotools/coco.py</url>
+          <line>228</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/pytorch0.4/lib/python3.6/site-packages/pycocotools/coco.py</url>
+          <line>229</line>
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/pytorch0.4/lib/python3.6/site-packages/pycocotools/coco.py</url>
+          <line>230</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/pytorch0.4/lib/python3.6/site-packages/pycocotools/coco.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/pytorch0.4/lib/python3.6/site-packages/pycocotools/coco.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py</url>
+          <line>227</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py</url>
+          <line>228</line>
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py</url>
+          <line>229</line>
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py</url>
+          <line>230</line>
+          <option name="timeStamp" value="483" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py</url>
+          <line>231</line>
+          <option name="timeStamp" value="484" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py</url>
+          <line>233</line>
+          <option name="timeStamp" value="485" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py</url>
+          <line>238</line>
+          <option name="timeStamp" value="486" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py</url>
+          <line>243</line>
+          <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py</url>
+          <line>247</line>
+          <option name="timeStamp" value="488" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py</url>
+          <line>252</line>
+          <option name="timeStamp" value="489" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/lib/datasets/roidb.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="490" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/lib/datasets/roidb.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/lib/datasets/roidb.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="492" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Detectron.pytorch/lib/datasets/roidb.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="493" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="404" selection-start-line="404" selection-end-line="404" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qirui/data_coco/qirui2coco.py" />
+    <entry file="file://$PROJECT_DIR$/../../qirui/data_coco/annotations/instances_train2014.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret column="977" selection-start-column="977" selection-end-column="977" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/1_ships_to_coco.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-470">
+          <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qirui/VOC2COCO_xml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#23#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/pycococreatortools/pycococreatortools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="17" column="3" selection-start-line="17" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qirui/pycococreatortools/pycococreatortools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="102" column="26" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/pytorch0.4/lib/python3.6/site-packages/pycocotools/coco.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1101">
+          <caret line="230" selection-start-line="230" selection-end-line="230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qirui/data_check2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qirui/data_check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Detectron.pytorch/tools/infer_simple _2d-3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qirui/qirui2coco.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="48" column="6" lean-forward="true" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Detectron.pytorch/lib/utils/vis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="112" column="31" selection-start-line="112" selection-start-column="31" selection-end-line="112" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/01_抽象数据类型和面向对象编程/bag_adt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../RFBNet/doc/RFB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../RFBNet/test_RFB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="92" column="28" lean-forward="true" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/01_抽象数据类型和面向对象编程/practice1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/02_数组和列表/practice1.py" />
+    <entry file="file://$PROJECT_DIR$/../../Detectron.pytorch/lib/datasets/roidb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/03_链表/linklist_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="120" column="12" selection-start-line="120" selection-start-column="12" selection-end-line="120" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/03_链表/double_linklist_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/04_队列/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="116" selection-start-line="116" selection-end-line="118" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/02_数组和列表/array_and_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/03_链表/linked_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-943">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/04_队列/array_queue_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/04_队列/deque_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="119" column="4" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/04_队列/queue_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/03_链表/lru_cache.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/05_栈/stack_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="116" column="4" lean-forward="true" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/pytorch0.4/lib/python3.6/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="273" column="4" selection-start-line="273" selection-start-column="4" selection-end-line="273" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/05_栈/stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2277" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/03_链表/double_link_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="93" column="21" lean-forward="true" selection-start-line="10" selection-end-line="93" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../cheery2voc/chery_data_analysis/cheery_data_check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1047">
+          <caret line="58" column="23" lean-forward="true" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../cheery2voc/chery_data_analysis/Data2VOC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#42#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../simple-faster-rcnn-pytorch/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1357">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Detectron.pytorch/lib/core/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="978" column="26" selection-start-line="978" selection-start-column="26" selection-end-line="978" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Detectron.pytorch/lib/datasets/dataset_catalog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="111" column="46" selection-start-line="111" selection-start-column="46" selection-end-line="111" selection-end-column="46" />
+          <folding>
+            <element signature="e#712#750#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/07_哈希表/class_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/gluon/lib/python3.6/site-packages/mxnet/gluon/nn/conv_layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="307" column="8" selection-start-line="307" selection-start-column="8" selection-end-line="307" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../mxnet/practice/1-10.py" />
+    <entry file="file://$PROJECT_DIR$/../../Detectron.pytorch/tools/infer_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="96" column="45" selection-start-line="96" selection-start-column="45" selection-end-line="96" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Detectron.pytorch/lib/datasets/dummy_datasets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Detectron.pytorch/tools/train_net_step.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Detectron.pytorch/configs/baselines/e2e_mask_rcnn_R-101-FPN_1x.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/07_哈希表/hashtable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-874">
+          <caret line="77" column="47" selection-start-line="77" selection-start-column="47" selection-end-line="77" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/07_哈希表/hash_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="188" column="22" selection-start-line="188" selection-start-column="22" selection-end-line="188" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../mxnet/practice/mxnet_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/gluon/lib/python3.6/site-packages/d2lzh/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4761">
+          <caret line="222" column="20" selection-start-line="222" selection-start-column="20" selection-end-line="222" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/gluon/lib/python3.6/site-packages/mxnet/gluon/block.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11201">
+          <caret line="499" column="48" selection-start-line="499" selection-start-column="48" selection-end-line="499" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../数据结构和算法/python_data_structures_and_algorithms/docs/10_递归/resursion_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

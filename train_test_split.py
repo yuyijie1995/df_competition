@@ -15,11 +15,11 @@ import os
 if __name__ == '__main__':
 
 
-    train_file = open('path/ImageSets/Main/train.txt', 'w')
-    test_file = open('path/ImageSets/Main/test.txt', 'w')
-    for _, _, train_files in os.walk('path/train_images'):
+    train_file = open('/media/wrc/8EF06A4CF06A3A9B/钢筋计数/VOC/ImageSets/Main/trainval.txt', 'w')
+    test_file = open('/media/wrc/8EF06A4CF06A3A9B/钢筋计数/VOC/ImageSets/Main/test.txt', 'w')
+    for _, _, train_files in os.walk('/media/wrc/8EF06A4CF06A3A9B/钢筋计数/VOC/JPEGImages'):
         continue
-    for _, _, test_files in os.walk('path/test_images'):
+    for _, _, test_files in os.walk('/media/wrc/8EF06A4CF06A3A9B/钢筋计数/test_dataset'):
         continue
     for file in train_files:
         train_file.write(file.split('.')[0] + '\n')

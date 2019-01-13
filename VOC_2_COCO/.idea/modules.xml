@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/.idea/0_rle_to_coco.iml" filepath="$PROJECT_DIR$/../../kaggle_airbus_ship_detection/0_rle_to_coco/.idea/0_rle_to_coco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Detectron.pytorch/.idea/Detectron.pytorch.iml" filepath="$PROJECT_DIR$/../../Detectron.pytorch/.idea/Detectron.pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/.idea/FasterRCNN.iml" filepath="$PROJECT_DIR$/../../tensorpack/examples/FasterRCNN/.idea/FasterRCNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/.idea/MSCOCO.iml" filepath="$PROJECT_DIR$/../../TensorExpand/TensorExpand/Object detection/Data_interface/MSCOCO/.idea/MSCOCO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../RFBNet/.idea/RFBNet.iml" filepath="$PROJECT_DIR$/../../RFBNet/.idea/RFBNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/VOC_2_COCO.iml" filepath="$PROJECT_DIR$/.idea/VOC_2_COCO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cheery2voc/.idea/cheery2voc.iml" filepath="$PROJECT_DIR$/../../cheery2voc/.idea/cheery2voc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../kaggle_human_protein_baseline/.idea/kaggle_human_protein_baseline.iml" filepath="$PROJECT_DIR$/../../kaggle_human_protein_baseline/.idea/kaggle_human_protein_baseline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keras-retinanet/.idea/keras-retinanet.iml" filepath="$PROJECT_DIR$/../../keras-retinanet/.idea/keras-retinanet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mxnet/practice/.idea/practice.iml" filepath="$PROJECT_DIR$/../../mxnet/practice/.idea/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../qirui/.idea/qirui.iml" filepath="$PROJECT_DIR$/../../qirui/.idea/qirui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../simple-faster-rcnn-pytorch/.idea/simple-faster-rcnn-pytorch.iml" filepath="$PROJECT_DIR$/../../simple-faster-rcnn-pytorch/.idea/simple-faster-rcnn-pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../数据结构和算法/.idea/数据结构和算法.iml" filepath="$PROJECT_DIR$/../../数据结构和算法/.idea/数据结构和算法.iml" />
+    </modules>
+  </component>
+</project>

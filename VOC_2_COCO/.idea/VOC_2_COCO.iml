@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (pytorch0.4)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Detectron.pytorch" />
+    <orderEntry type="module" module-name="kaggle_human_protein_baseline" />
+    <orderEntry type="module" module-name="FasterRCNN" />
+    <orderEntry type="module" module-name="keras-retinanet" />
+    <orderEntry type="module" module-name="MSCOCO" />
+    <orderEntry type="module" module-name="0_rle_to_coco" />
+    <orderEntry type="module" module-name="qirui" />
+    <orderEntry type="module" module-name="simple-faster-rcnn-pytorch" />
+    <orderEntry type="module" module-name="Detectron.pytorch" />
+    <orderEntry type="module" module-name="RFBNet" />
+    <orderEntry type="module" module-name="数据结构和算法" />
+    <orderEntry type="module" module-name="cheery2voc" />
+    <orderEntry type="module" module-name="practice" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
